@@ -4,4 +4,4 @@ This program ask the user to enter 3 numbers save them in an array and print the
 
 # Technologies used:
 - HTML.
-- Javascript.
+- Javascript, ES6.
